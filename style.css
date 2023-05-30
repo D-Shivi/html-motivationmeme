@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+.quote1{
+    width: 100%;
+    border: 5px solid yellow;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 3 rem;
+
+}
+.qoute01{
+    width: 50%;
+    margin-left:25%;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
